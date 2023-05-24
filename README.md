@@ -1,1 +1,2 @@
-# data-science-02
+#Emotion management system
+smart class(online attendance system)
